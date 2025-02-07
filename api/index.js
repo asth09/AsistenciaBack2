@@ -1,2 +1,3 @@
-import app from './app.js'
-module.exports = app
+import { server } from '../src';
+const app = server;
+export default app;

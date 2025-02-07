@@ -38,6 +38,5 @@ app.get("/api/nelson", (req, res) =>{
 app.use("/api", authRoutes);
 app.use("/api", docenteRoutes);
 app.use("/api", empleadoRoutes);
+ 
 
-
-export default app;
