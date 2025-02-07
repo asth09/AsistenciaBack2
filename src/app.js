@@ -9,7 +9,7 @@ import empleadoRoutes from './routes/trabajador.routes.js';
 
 const app = express();
 
-const whitelist = [ "https://api-prueba-asistant-front.vercel.app"
+const whitelist = [ "https://asistencia-front2.vercel.app/"
 ];
 
 const corsOptions = {
