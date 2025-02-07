@@ -40,3 +40,4 @@ app.use("/api", docenteRoutes);
 app.use("/api", empleadoRoutes);
  
 
+export default app

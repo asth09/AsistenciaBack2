@@ -1,3 +1,2 @@
-import { server } from '../src';
-const app = server;
+import { app } from '../src/index.js';
 export default app;
