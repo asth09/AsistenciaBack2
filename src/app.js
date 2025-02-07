@@ -11,7 +11,8 @@ const app = express();
 
 const whitelist = [
   "http://localhost:5173",
-  "https://asistencia-front.vercel.app"
+  "https://asistencia-front.vercel.app",
+  "https://api-prueba-asistant-front.vercel.app"
 ];
 
 const corsOptions = {
