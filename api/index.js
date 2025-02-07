@@ -1,2 +1,2 @@
-import { app } from '../src'
+import app from './app.js'
 module.exports = app
